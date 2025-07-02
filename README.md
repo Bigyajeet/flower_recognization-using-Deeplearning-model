@@ -1,4 +1,5 @@
-Flower Recognition using Deep Learning
+                     Flower Recognition using Deep Learning
+
 Project Overview
 This project leverages the 'Flower Recognition' dataset from Kaggle to train a machine learning model capable of predicting flower images. The primary goal is to develop an accurate classification model for various flower species.
 
@@ -57,5 +58,4 @@ Interpreting the output (e.g., predicted flower class and confidence score).
 Contributing
 Contributions are welcome! If you have suggestions for improvements, new features, or bug fixes, please feel free to open an issue or submit a pull request.
 
-License
-(Specify your project's license here, e.g., MIT, Apache 2.0, etc.)
+
